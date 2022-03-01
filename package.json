@@ -1,0 +1,19 @@
+{
+  "name": "brother",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "5.0.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start":"yarn run lite",
+    "lite":"lite-server"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
